@@ -1,4 +1,4 @@
-# ROS-LLM: Implementation of Large Language Models on Robot Operating System 2
+# ROS-HRI: Implementation of Multi-modal AIs on Robot Operating System to enhance Human-Robot Interaction
 
 ROS-LLM is an advanced framework that combines the power of Large Language Models (LLMs) with ROS 2 to create a more natural and intuitive human-robot interaction system. This project extends the original ROSGPT work by adding real-time voice interaction capabilities, making it easier for users to control robots through natural language and voice commands.
 
